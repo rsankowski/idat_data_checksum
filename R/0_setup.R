@@ -1,0 +1,5 @@
+dir.create("data")
+dir.create(file.path("data","first_diagnosis"))
+dir.create(file.path("data","recidive"))
+dir.create(file.path("data","re_recidive"))
+dir.create("R")
